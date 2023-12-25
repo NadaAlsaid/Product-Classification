@@ -44,6 +44,6 @@ and then use this information to update inventory levels, calculatepro ducts pri
 - <a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
 - <a href="https://github.com/anna-adel">Yoana Adel</a><br>
 - <a href="https://github.com/maHossam9">Mariam Hossam</a><br>
-- <a href="https://github.com/NadaShehata">Yara Hossm</a><br>
+- <a href="https://github.com/Yara Hossm">Yara Hossm</a><br>
 - <a href="https://github.com/YaraSherif">Yara Sherif</a><br>
 - <a href="https://github.com/Yara-Abdelrahem">Yara Abdelrahem</a>
