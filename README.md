@@ -33,9 +33,11 @@ and then use this information to update inventory levels, calculatepro ducts pri
     - After training, it evaluates the model on the training data and prints the test loss and accuracy
       
 <h2>Train Accuracy:</h2>
+
   - Navie Bayes Model & Logistic Regression Model -> 100%
   - CNN Model -> 77.86 %
 <h2>Test Accuracy:</h2>
+
   - Navie Bayes Model -> 76.47%
   - Logistic Regression Model -> 91.18%
   - CNN Model -> 64.71%
