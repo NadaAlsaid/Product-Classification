@@ -12,7 +12,7 @@ and then use this information to update inventory levels, calculatepro ducts pri
   - CNN Model
     - images are retrieved from directory and are saved as an array of grayscale images
       
-    - using smoothing filter then did a resize on images and convert them into a num.array to apply BOW
+    - using smoothing filter then did a resize on images and convert them into a num.array to apply CNN
 
 <h2>Model Description :</h2>
 
